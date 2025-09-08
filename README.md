@@ -1,4 +1,5 @@
-## Hi there 👋
+### Hi there <a href="https://akshay-365.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+
 
 <!--
 **Akshay-365/Akshay-365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 📝 My Blog
+
+I write about my projects, learnings, and thoughts on my blog. Check it out!
+
+[**➡️ akshay-365.github.io**](https://akshay-365.github.io/)
