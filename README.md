@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 I write about my projects, learnings, and thoughts on my blog. Check it out!
 
-[**➡️ akshay-365.github.io**](https://akshaylabs.github.io/)
+[**➡️ akshaylabs.github.io**](https://akshaylabs.github.io/)
