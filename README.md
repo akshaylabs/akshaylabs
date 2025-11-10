@@ -1,4 +1,4 @@
-### Hi there <a href="https://akshay-365.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+### Hi there <a href="https://akshaylabs.github.io/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 
 <!--
@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 I write about my projects, learnings, and thoughts on my blog. Check it out!
 
-[**➡️ akshay-365.github.io**](https://akshay-365.github.io/)
+[**➡️ akshay-365.github.io**](https://akshaylabs.github.io/)
